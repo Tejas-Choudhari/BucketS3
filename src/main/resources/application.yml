@@ -1,0 +1,26 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAW5IRXCYJAZNSER63
+      secret-key: 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
+    region:
+      static: ap-south-1
+    stack:
+      auto: false
+      
+      
+application:
+  bucket:
+    name: spring-bucket1-s3
+    
+    
+    
+    
+    
+server:
+  port: 9090
+      
+      
+      
+      
+      
